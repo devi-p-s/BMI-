@@ -12,7 +12,7 @@ function bmi(){
  let bmiv=wvalue/(hvalue*hvalue);
  
  if(hvalue==""||wvalue==""){
-   alert("not")
+   alert("please fill")
  }
 
  else{
